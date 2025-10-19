@@ -1,0 +1,22 @@
+{
+  "note": "Donate DIRECTLY to these vetted mental-health charities (never to this project):",
+  "charities": [
+    {
+      "name": "NAMI",
+      "fiat":  {"url": "https://www.nami.org/About-NAMI/Donate-to-NAMI"},
+      "crypto": {
+        "BTC": "bc1examplebtcaddress...",
+        "ETH": "0xexampleethaddress...",
+        "XMR": "48examplemoneroaddress..."
+      }
+    },
+    {
+      "name": "Mental Health America",
+      "fiat":  {"url": "https://mhanational.org/donate"},
+      "crypto": {
+        "BTC": "bc1examplebtc2...",
+        "ETH": "0xexampleeth2..."
+      }
+    }
+  ]
+}
