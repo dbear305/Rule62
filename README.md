@@ -27,3 +27,6 @@ Rule 62 turns that idea into a simple, local program for anyone seeking recovery
 ```powershell
 py -3.11 -m pip install cryptography
 py -3.11 rule62.py
+---
+
+*Created with gratitude — in service, not promotion.*
